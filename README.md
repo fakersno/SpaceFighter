@@ -4,3 +4,6 @@
 针对chaos物理破碎的代码管理不同的破碎效果;
 基于后期处理更改G-buffer信息实现卡通渲染效果;
 基于欧拉角物理计算实现6自由度飞行效果；
+![image](https://github.com/fakersno/SpaceFighter/blob/main/Image/p0.png)
+![image](https://github.com/fakersno/SpaceFighter/blob/main/Image/p1.png)
+![image](https://github.com/fakersno/SpaceFighter/blob/main/Image/p2.png)
